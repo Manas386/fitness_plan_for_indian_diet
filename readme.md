@@ -1,4 +1,4 @@
-# 🏋️ Fitness & Diet Recommendation System
+# 🏋️ Fitness & Diet Recommendation System for indians
 
 ## 📌 Overview
 This project is a command-line based application that provides personalized fitness and diet recommendations based on user input such as age, height, weight, and fitness goals.
